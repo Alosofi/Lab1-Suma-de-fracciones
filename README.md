@@ -46,3 +46,4 @@ Su programa debe:
 - Debe estar debidamente comentado e indentado de manera que su código sea legible (2 pts)
 - Asegurar que los literales que se asignan a variables sean del mismo tipo de dato (1 pt)
 - Si su programa no corre o se interrumpe, perderá la mitad de los puntos
+- Utilice solamente los conceptos discutidos en la clase
